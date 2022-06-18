@@ -20,6 +20,7 @@ df = pd.read_excel(
 )
 
 
+
 # ----- SIDEBAR -------
 st.sidebar.header("Filter: ")
 year = st.sidebar.selectbox(
